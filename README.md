@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![GIF] (https://giphy.com/embed/du3J3cXyzhj75IOgvA")
+![GIF] (https://giphy.com/embed/du3J3cXyzhj75IOgvA)
 
 ## My name is **Elizabeth Dovhaliuk** ✨
 
