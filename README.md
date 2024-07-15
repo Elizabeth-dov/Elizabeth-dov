@@ -2,6 +2,8 @@
 
 ![GIF] (https://giphy.com/embed/du3J3cXyzhj75IOgvA)
 
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+
 ## My name is **Elizabeth Dovhaliuk** ✨
 
 I am a beginner web developer. I started actively learning about web development a year ago, using resources on the Internet, in particular, the   Youtube, Codecademy and Udemy platforms. During this time I gained knowledge and skills in HTML, CSS and JavaScript. My next step will be to study full stack web development. 👩🏼
