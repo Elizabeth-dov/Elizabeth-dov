@@ -10,9 +10,11 @@ I am a beginner web developer. I started actively learning about web development
 
 ## Contact 📩
 
-- [![GitHub Logo]((https://image.flaticon.com/icons/svg/25/25231.svg)](https://github.com/Elizabeth-dov)
-- [![Email Logo](link_do_obrazka_Email_logo)](mailto:lizadovgalyuk.com@gmail.com)
-- [![LinkedIn Logo](link_do_obrazka_LinkedIn_logo)](https://www.linkedin.com/in/yelyzaveta-dovgalyuk-7b8ab62b7/)
+ - [GitHub] (https://github.com/Elizabeth-dov)
+  
+- [Email] (lizadovgalyuk.com@gmail.com)
+
+- [Linkedin] (https://www.linkedin.com/in/yelyzaveta-dovgalyuk-7b8ab62b7/)
 
 
 
