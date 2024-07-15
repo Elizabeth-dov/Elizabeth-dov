@@ -10,7 +10,7 @@ I am a beginner web developer. I started actively learning about web development
 
 ## Contact 📩
 
- - [GitHub] (https://github.com/Elizabeth-dov)
+ - GitHub (https://github.com/Elizabeth-dov)
   
 - [Email] (lizadovgalyuk.com@gmail.com)
 
