@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![Computer Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
+![Computer Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## My name is **Elizabeth Dovhaliuk** ✨
 
