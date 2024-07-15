@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 ## My name is **Elizabeth Dovhaliuk** ✨
 
@@ -8,6 +8,8 @@ I am a beginner web developer. I started actively learning about web development
 - [GitHub] (https://github.com/Elizabeth-dov)
   
 - [Email] (lizadovgalyuk.com@gmail.com)
+
+- [linkedin] (https://www.linkedin.com/in/yelyzaveta-dovgalyuk-7b8ab62b7/)
 
 ## Technologies
 
