@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Opis GIF-a">
 </p>
 
-## My name is **Elizabeth Dovhaliuk** ✨
+## My name is **Elizabeth** ✨
 
 I am a beginner web developer. I started actively learning about web development a year ago, using resources on the Internet, in particular, the   Youtube, Codecademy and Udemy platforms. During this time I gained knowledge and skills in HTML, CSS and JavaScript. My next step will be to study full stack web development. 👩🏼
 
