@@ -1,6 +1,7 @@
 ## Hello 👋
 
-![GIF] (<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>)
+![GIF] <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+
 ## My name is **Elizabeth Dovhaliuk** ✨
 
 I am a beginner web developer. I started actively learning about web development a year ago, using resources on the Internet, in particular, the   Youtube, Codecademy and Udemy platforms. During this time I gained knowledge and skills in HTML, CSS and JavaScript. My next step will be to study full stack web development. 👩🏼
