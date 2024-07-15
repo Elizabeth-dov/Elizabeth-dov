@@ -9,9 +9,9 @@
 I am a beginner web developer. I started actively learning about web development a year ago, using resources on the Internet, in particular, the   Youtube, Codecademy and Udemy platforms. During this time I gained knowledge and skills in HTML, CSS and JavaScript. My next step will be to study full-stack web development. 👩🏼
 
 ## Contact 📩
-- [<img src="link_do_obrazka_GitHub_logo" height="20">](https://github.com/Elizabeth-dov)
-- [<img src="link_do_obrazka_Email_logo" height="20">](mailto:lizadovgalyuk.com@gmail.com)
-- [<img src="link_do_obrazka_LinkedIn_logo" height="20">](https://www.linkedin.com/in/yelyzaveta-dovgalyuk-7b8ab62b7/)
+- [<img src="link_do_obrazka_GitHub_logo" height="20">] (https://github.com/Elizabeth-dov)
+- [<img src="link_do_obrazka_Email_logo" height="20">] (mailto:lizadovgalyuk.com@gmail.com)
+- [<img src="link_do_obrazka_LinkedIn_logo" height="20">] (https://www.linkedin.com/in/yelyzaveta-dovgalyuk-7b8ab62b7/)
 
 
 ## Technologies
