@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![GIF]([ścieżka_do_gifa/nazwa_pliku.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdnc2J5bW5vZ2M5ODZrODJnbTFycGIzbWw0Z2R3NTMzeGhzNmVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp))
+![GIF] [https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdnc2J5bW5vZ2M5ODZrODJnbTFycGIzbWw0Z2R3NTMzeGhzNmVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp]
 
 ## My name is **Elizabeth Dovhaliuk** ✨
 
