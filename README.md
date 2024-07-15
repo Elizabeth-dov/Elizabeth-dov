@@ -6,7 +6,7 @@
 
 ## My name is **Elizabeth** ✨
 
-I am a beginner web developer. I started actively learning about web development a year ago, using resources on the Internet, in particular, the   Youtube, Codecademy and Udemy platforms. During this time I gained knowledge and skills in HTML, CSS and JavaScript. My next step will be to study full-stack web development. 👩🏼
+I am 22 years old and currently in my final year of studying political science. Additionally, I am a beginner web developer. I began actively learning web development a year ago using various online resources, especially YouTube, Codecademy, and Udemy. Over this period, I have acquired knowledge and skills in HTML, CSS, and JavaScript. My next goal is to delve into full-stack web development. 👩🏼
 
 ## Contact 📩
 
