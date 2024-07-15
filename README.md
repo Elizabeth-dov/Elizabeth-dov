@@ -19,7 +19,7 @@ I am a beginner web developer. I started actively learning about web development
 
 
 ## My Portfolio
-- [My Portfolio] (https://elizabeth-dov.github.io/Project_6-my.portfolio/)🌐
+- 🖥️ [My Portfolio] (https://elizabeth-dov.github.io/Project_6-my.portfolio/)
 
 
 ## Technologies
