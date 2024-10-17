@@ -30,6 +30,7 @@ I am 22 years old and currently I am in the last year of my master's degree in p
 - ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)
-- ![npm Logo](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg" alt="npm Logo" width="100"/>
+
 
 
