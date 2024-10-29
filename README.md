@@ -33,7 +33,7 @@ I am 22 years old and currently I am in the last year of my master's degree in p
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm Logo" width="150"/>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="150"/>
 
-
-
+## Now working on
+- First project in React (https://github.com/Elizabeth-dov)
 
 
