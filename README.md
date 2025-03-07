@@ -6,7 +6,7 @@
 
 ## My name is **Elizabeth** ✨
 
-I am 22 years old and currently I am in the last year of my master's degree in political science. Additionally, I am a beginner web developer. I have been actively learning web development using various online resources, especially YouTube, Codecademy, Udemy and Roadmap. I am currently actively learning the React framework to further enhance my front-end development skills. My next goal is to delve into full-stack web development. 👩🏼
+I am 23 years old and currently I am in the last year of my master's degree in political science. Additionally, I am a beginner web developer. I have been actively learning web development using various online resources, especially YouTube, Codecademy, Udemy and Roadmap. I am currently actively learning the React framework to further enhance my front-end development skills. My next goal is to delve into full-stack web development. 👩🏼
 
 ## Contact 📩
 
