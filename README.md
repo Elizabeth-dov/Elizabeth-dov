@@ -18,8 +18,8 @@ I am 23 years old and currently I am in my final semester of my master's degree 
 
 
 
-## My Portfolio
-- 🌐 (https://elizabeth-dov.github.io/Project_6-my.portfolio/)
+## My Portfolio 
+- 🌐 [My Front-End Web Development Portfolio](https://elizabeth-dov.github.io/Project_6-my.portfolio/)
 
 
 
