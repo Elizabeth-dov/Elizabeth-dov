@@ -32,6 +32,7 @@ I am 23 years old and currently I am in my final semester of my master's degree 
 - ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm Logo" width="150"/>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="150"/>
+- ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ## Now working on
 - First project in React.js ([https://github.com/Elizabeth-dov](https://github.com/Elizabeth-dov/React-first.project))
