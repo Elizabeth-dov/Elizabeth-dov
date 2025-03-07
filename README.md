@@ -37,6 +37,9 @@ I am 23 years old and currently I am in my final semester of my master's degree 
 
 
 ## Now working on
-- First project in React.js ([https://github.com/Elizabeth-dov](https://github.com/Elizabeth-dov/React-first.project))
+
+- Actively learning **Swift** to build iOS applications and improve my mobile development skills.
+- Taking the **CS50** online course by Harvard University to strengthen my computer science foundation and programming knowledge. 
+
 
 
