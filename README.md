@@ -6,7 +6,7 @@
 
 ## My name is **Elizabeth** ✨
 
-I am 23 years old and currently in the final semester of my master’s degree in political science. Alongside my academic journey, I have developed a strong interest and solid foundation in front-end web development. I am proficient in HTML, CSS, JavaScript, and WordPress, and I’ve been actively honing my skills through platforms such as YouTube, Codecademy, Udemy, and Roadmap.
+I am 23 years old and currently in the final semester of my master’s degree in political science. Alongside my academic journey, I have developed a strong interest and solid foundation in front-end web development. I have a foundational understanding of HTML, CSS, JavaScript, and WordPress, and I’ve been actively developing my skills through platforms such as YouTube, Codecademy, Udemy, and Roadmap.
 
 In addition to web development, I have recently started exploring iOS development, focusing on Swift and SwiftUI to build intuitive and user-friendly mobile applications. My goal is to gain hands-on experience, contribute to real-world projects, and continue growing as a developer—both on the web and mobile side. 🚀👩🏼‍💻
 
