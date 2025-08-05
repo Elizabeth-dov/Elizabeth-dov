@@ -6,9 +6,16 @@
 
 ## My name is **Elizabeth** ✨
 
-I am 23 years old and currently in the final semester of my master’s degree in political science. Alongside my academic journey, I have developed a strong interest and solid foundation in front-end web development. I have a foundational understanding of HTML, CSS, JavaScript, and WordPress, and I’ve been actively developing my skills through platforms such as YouTube, Codecademy, Udemy, and Roadmap.
-
-In addition to web development, I have recently started exploring iOS development, focusing on Swift and SwiftUI to build intuitive and user-friendly mobile applications. My goal is to gain hands-on experience, contribute to real-world projects, and continue growing as a developer—both on the web and mobile side. 🚀👩🏼‍💻
+I am 23 years old and currently I am in my final semester of my
+master's degree in political science.
+Additionally, I am an aspiring iOS developer with a
+background in front-end web development. I have been
+actively learning programming through various online
+resources such as YouTube, Codecademy, Udemy, and
+Roadmap. Recently, I shifted my focus to iOS development,
+studying Swift and SwiftUI to build intuitive and user-friendly
+applications. My goal is to gain hands-on experience and
+further deepen my understanding of mobile development. 🚀👩🏼‍💻
 
 ## Contact 📩
 
@@ -27,6 +34,8 @@ In addition to web development, I have recently started exploring iOS developmen
 
 ## Technologies
 
+- ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+- ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -35,8 +44,6 @@ In addition to web development, I have recently started exploring iOS developmen
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="150"/>
 - ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 - ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)
-- ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 
 
