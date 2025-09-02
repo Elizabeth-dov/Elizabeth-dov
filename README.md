@@ -6,16 +6,7 @@
 
 ## My name is **Elizabeth** ✨
 
-I am 23 years old and currently I am in my final semester of my
-master's degree in political science.
-Additionally, I am an aspiring iOS developer with a
-background in front-end web development. I have been
-actively learning programming through various online
-resources such as YouTube, Codecademy, Udemy, and
-Roadmap. Recently, I shifted my focus to iOS development,
-studying Swift and SwiftUI to build intuitive and user-friendly
-applications. My goal is to gain hands-on experience and
-further deepen my understanding of mobile development. 🚀👩🏼‍💻
+I am 23 years old and currently in the final semester of my master’s degree in political science, with my thesis defense scheduled for this September. My main background is in front-end web development, where I gained solid experience creating responsive and user-friendly interfaces. Over time, I became increasingly interested in mobile technologies and recently expanded my focus to iOS development, learning Swift and SwiftUI to design intuitive applications. I continue to build my skills through online resources such as YouTube, Codecademy, Udemy, and Roadmap. My goal is to combine my front-end expertise with mobile development to create seamless, engaging digital experiences. 🚀👩🏼‍💻
 
 ## Contact 📩
 
@@ -34,16 +25,17 @@ further deepen my understanding of mobile development. 🚀👩🏼‍💻
 
 ## Technologies
 
-- ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm Logo" width="150"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="150"/>
 - ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 - ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)
+- ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+- ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm Logo" width="150"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="150"/>
+
 
 
 
