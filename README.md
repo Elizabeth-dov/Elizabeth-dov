@@ -44,6 +44,7 @@ I am 23 years old and currently in the final semester of my master’s degree in
 
 ## Now working on
 
+- Actively learning front-end development to strengthen my skills in building responsive and user-friendly web interfaces.
 - Actively learning **Swift** to build iOS applications and improve my mobile development skills.
 - Taking the **CS50** online course by Harvard University to strengthen my computer science foundation and programming knowledge. 
 
