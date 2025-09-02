@@ -6,7 +6,7 @@
 
 ## My name is **Elizabeth** ✨
 
-I am 23 years old and currently in the final semester of my master’s degree in political science, with my thesis defense scheduled for this September. My main background is in front-end web development, where I gained solid experience creating responsive and user-friendly interfaces. Over time, I became increasingly interested in mobile technologies and recently expanded my focus to iOS development, learning Swift and SwiftUI to design intuitive applications. I continue to build my skills through online resources such as YouTube, Codecademy, Udemy, and Roadmap. My goal is to combine my front-end expertise with mobile development to create seamless, engaging digital experiences. 🚀👩🏼‍💻
+I am 23 years old and currently I am in my final semester of my master's degree in political science. Additionally, I am an aspiring iOS developer with a background in front-end web development. I have been actively learning programming through various online resources such as YouTube, Codecademy, Udemy, and Roadmap. Recently, I shifted my focus to iOS development, studying Swift and SwiftUI to build intuitive and user-friendly applications. My goal is to gain hands-on experience and further deepen my understanding of mobile development. 🚀👩🏼‍💻
 
 ## Contact 📩
 
