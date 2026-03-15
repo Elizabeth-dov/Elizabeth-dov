@@ -6,7 +6,11 @@
 
 ## My name is **Elizabeth** ✨
 
-I am an aspiring iOS developer with a background in front-end web development. I have been actively learning programming through various online resources such as YouTube, Codecademy, Udemy, and Roadmap. Recently, I shifted my focus to iOS development, studying Swift and SwiftUI to build intuitive and user-friendly applications. My goal is to gain hands-on experience and further deepen my understanding of mobile development. 🚀👩🏼‍💻
+I am a beginner Front-End Developer with a strong interest in building modern and user-friendly web applications. I have been actively learning programming through various online resources such as YouTube, Codecademy, Udemy, and Roadmap.
+
+My main focus is on developing my skills in HTML, CSS, and JavaScript, while also exploring modern front-end tools and frameworks. I enjoy creating clean interfaces, improving user experience, and continuously expanding my knowledge in web development.
+
+My goal is to gain practical experience, work on real projects, and continue growing as a Front-End Developer. 🚀👩🏼‍💻
 
 ## Contact 📩
 
