@@ -49,7 +49,7 @@ My goal is to gain practical experience, work on real projects, and continue gro
 
 ## Now working on
 
-- Actively learning **Swift** to build iOS applications and improve my mobile development skills.
+
 - Taking the **CS50** online course by Harvard University to strengthen my computer science foundation and programming knowledge. 
 - Actively learning front-end development to strengthen my skills in building responsive and user-friendly web interfaces.
 
